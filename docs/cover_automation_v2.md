@@ -157,6 +157,15 @@ sich die Automation die Ausgangsposition und stellt sie nach dem Schließen wied
 (innerhalb des einstellbaren Zeitfensters). Kam inzwischen Nachtmodus oder Sturm,
 wird stattdessen deren Zustand hergestellt.
 
+**Hoch oder runter bei Sturm — was ist richtig?** Standardmäßig fährt der
+Rollladen bei Sturm hoch, damit ein halb geöffneter Panzer nicht in den
+Führungsschienen flattert. Mit dem Panzer-Modus fährt er stattdessen herunter. Die
+Option "Geschlossene Rollläden bei Sturm zu lassen" ist der Mittelweg: Nur teilweise
+geöffnete Rollläden fahren hoch, ein bereits komplett geschlossener (0 %) bleibt zu.
+Das passt zu stabilen Panzern, die nachts als Einbruchschutz dienen — beginnt der
+Sturm nachts, bleibt alles unten; tagsüber fahren offene Rollläden trotzdem in
+Sicherheit. Solange der Sturm anhält, blockiert er außerdem das morgendliche Öffnen.
+
 **Kann ich denselben Status-Helfer für mehrere Fenster verwenden?** Nein — er
 speichert den Zustand genau eines Fensters. Ein geteilter Helfer führt zu falschem
 Öffnen/Schließen.
